@@ -1,5 +1,5 @@
 
-# Classification et clustering des tweets en Python.
+# Classification et clustering des tweets en Python:
 
 # Introduction :
 Twitter est un service de réseautage social et de microblogage sur lequel les utilisateurs publient et interagissent les uns avec les autres par le biais de messages appelés «tweets». Il est classé au 6e rang des sites et applications de réseautage social les plus populaires par Dream Grow en avril 2020 avec une moyenne de 330 millions d'utilisateurs mensuels actifs.
